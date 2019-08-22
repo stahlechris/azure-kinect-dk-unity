@@ -282,7 +282,7 @@ namespace Microsoft.Azure.Kinect.Sensor
 
                 this.CurrentDepthMode = DepthMode.Off;
                 this.CurrentColorResolution = ColorResolution.Off;
-            }
+			}
         }
 
         public void StartImu()
